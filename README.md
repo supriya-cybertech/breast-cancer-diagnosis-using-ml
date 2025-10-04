@@ -17,6 +17,15 @@ This project builds a **neural network model** that classifies tumors as **benig
 The model achieves **~98% accuracy**, demonstrating how machine learning can assist early diagnosis and clinical decision-making.
 
 ---
+## 📂 Dataset
+
+The dataset used in this project is `data.csv` stored in the `dataset/` folder.
+
+### Dataset Description
+- **Features**: 30 numerical features from the Wisconsin Breast Cancer dataset
+- **Target**: Diagnosis (Benign or Malignant)
+
+-----
 
 ## 🧠 Model Architecture
 

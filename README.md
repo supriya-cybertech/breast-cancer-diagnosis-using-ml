@@ -81,9 +81,9 @@ flowchart TD
 
 🚀 Future Improvements
 
-Deploy as a Streamlit web app for interactive diagnosis
-Experiment with Deep Neural Networks (DNN) and CNNs
-Integrate with medical data APIs for real-world use
+- Deploy as a Streamlit web app for interactive diagnosis
+- Experiment with Deep Neural Networks (DNN) and CNNs
+- Integrate with medical data APIs for real-world use
 
 ---
 📜 License

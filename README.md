@@ -7,7 +7,7 @@
 
 > Machine learning-based breast cancer diagnosis using the **Breast Cancer Wisconsin dataset** — predicting whether a tumor is **benign or malignant** using deep learning and traditional ML techniques.
 
----
+-----
 
 ## 📘 Project Overview
 
@@ -65,7 +65,7 @@ flowchart TD
 
 
 ```
-----
+---
 ⚙️ Tech Stack
 
 | Category             | Tools / Libraries                |
@@ -86,7 +86,7 @@ flowchart TD
 | **Loss Function**       | Binary Crossentropy |
 | **Optimizer**           | Adam                |
 
------
+---
 
 🚀 Future Improvements
 
